@@ -1,0 +1,1 @@
+const e={key:"v-5fbc6baa",path:"/referents.html",title:"Referents by language",lang:"en-US",frontmatter:{editLink:!1},excerpt:"",headers:[],git:{updatedTime:164950004e4},filePathRelative:"referents.md"};export{e as data};
